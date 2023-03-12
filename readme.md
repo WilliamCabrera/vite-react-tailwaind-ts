@@ -19,3 +19,6 @@ pnpm dev
 # Screenshot
 
 ![](https://i.imgur.com/ftvsXYB.png)
+
+
+please note that this is only a template. Dot not push to this repo
